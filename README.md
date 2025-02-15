@@ -10,7 +10,7 @@ Results-driven Cybersecurity Analyst with hands-on experience in threat detectio
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jackokello/threat-hunting-scenario-tor)**
 
 <hr/>
 
