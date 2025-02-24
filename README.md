@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jack-okello/">Jack Okello</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jackokello/">Jack Okello</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Results-driven Cybersecurity Analyst with hands-on experience in threat detection, vulnerability management, SIEM, and EDR solutions. Proven ability to secure enterprise environments by implementing firewall rules, conducting compliance audits (DISA STIG), and automating security processes. Strong foundation in cloud security (Azure, AWS), PowerShell scripting, and incident response, complemented by CompTIA Security+ and AWS Solutions Architect certifications.
 
